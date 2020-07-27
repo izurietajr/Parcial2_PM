@@ -1,0 +1,10 @@
+#+TITLE: Segundo parcial INF 324
+
+| Nombre                       |      CI |
+| Jesus Rodolfo Izurieta Veliz | 9860616 |
+
+1. Realice un motor de workflow en codeigniter (ejemplo realizado en clases con PHP simple).
+
+2. Obtenga los contornos de una imagen cualquiera
+
+3. Dibuje un muñeco de nieve mediante WebGL
