@@ -3,6 +3,8 @@
 | Nombre                       |      CI |
 | Jesus Rodolfo Izurieta Veliz | 9860616 |
 
+repositorio: [[https://github.com/izurietajr/Parcial2_PM]]
+
 1. Realice un motor de workflow en codeigniter (ejemplo realizado en clases con PHP simple).
 
 2. Obtenga los contornos de una imagen cualquiera
