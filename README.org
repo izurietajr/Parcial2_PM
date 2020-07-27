@@ -7,6 +7,9 @@
 
 2. Obtenga los contornos de una imagen cualquiera
 
+   La respuesta se encuentra en [[https://github.com/izurietajr/Parcial2_PM/blob/master/pregunta2/pregunta2.ipynb][esta dirección]]. Consta de un notebook de jupyter
+   en python explicando detalladamente el código.
+
 3. Dibuje un muñeco de nieve mediante WebGL
 
 ** Requisitos
